@@ -1,0 +1,1248 @@
+﻿Log file open, 01/16/23 16:27:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10200)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dungeon_And_Gun
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" ../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject /Game/TopDown/UI/MainMenue/MainMenuMap -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=252 -WinY=157 SAVEWINPOS=1 -ResX=1344 -ResY=776""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8996afaf491139b783ab089dab658f0e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.269189
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D48582C64E134D4F879B06A9A4267132
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/TopDown/UI/MainMenue/MainMenuMap -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=252 -WinY=157 SAVEWINPOS=1 -ResX=1344 -ResY=776
+LogInit: Base Directory: C:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.16-15.27.06:081][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.16-15.27.06:086][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.16-15.27.06:087][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.16-15.27.06:087][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.16-15.27.06:087][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.16-15.27.06:143][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.16-15.27.06:143][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.16-15.27.06:265][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.16-15.27.06:265][  0]LogD3D12RHI: Adapter has 8012MB of dedicated video memory, 0MB of dedicated system memory, and 16271MB of shared system memory, 1 output[s]
+[2023.01.16-15.27.06:270][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.16-15.27.06:270][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16271MB of shared system memory, 0 output[s]
+[2023.01.16-15.27.06:270][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.16-15.27.06:270][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-15.27.06:270][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.16-15.27.06:270][  0]LogHAL: Display: Platform has ~ 32 GB [34123063296 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.16-15.27.06:270][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.16-15.27.06:270][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.16-15.27.06:270][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.16-15.27.06:270][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.16-15.27.06:271][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.16-15.27.06:271][  0]LogInit: Computer: MOI-LAB04-PC33
+[2023.01.16-15.27.06:271][  0]LogInit: User: ccharvoz
+[2023.01.16-15.27.06:271][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.16-15.27.06:271][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.16-15.27.06:271][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.01.16-15.27.06:271][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.16-15.27.06:271][  0]LogMemory: Process Physical Memory: 283.85 MB used, 296.84 MB peak
+[2023.01.16-15.27.06:271][  0]LogMemory: Process Virtual Memory: 248.32 MB used, 248.32 MB peak
+[2023.01.16-15.27.06:271][  0]LogMemory: Physical Memory: 9704.33 MB used,  22837.96 MB free, 32542.29 MB total
+[2023.01.16-15.27.06:271][  0]LogMemory: Virtual Memory: 14041.00 MB used,  23365.29 MB free, 37406.29 MB total
+[2023.01.16-15.27.06:271][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.16-15.27.06:275][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.16-15.27.06:287][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.16-15.27.06:287][  0]LogInit: Using OS detected language (en-US).
+[2023.01.16-15.27.06:287][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.01.16-15.27.06:291][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.16-15.27.06:456][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.16-15.27.06:456][  0]LogWindowsTextInputMethodSystem:   - French (France) - (Keyboard).
+[2023.01.16-15.27.06:456][  0]LogWindowsTextInputMethodSystem:   - French (France) - Touch Input Correction (TSF IME).
+[2023.01.16-15.27.06:456][  0]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2023.01.16-15.27.06:465][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.16-15.27.06:465][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.16-15.27.06:473][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.16-15.27.06:475][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.16-15.27.06:476][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.16-15.27.06:538][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.16-15.27.06:603][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.16-15.27.06:607][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.16-15.27.06:616][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.16-15.27.06:636][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.16-15.27.06:636][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.16-15.27.06:636][  0]LogD3D12RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.16-15.27.06:636][  0]LogWindows: Attached monitors:
+[2023.01.16-15.27.06:636][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.16-15.27.06:636][  0]LogWindows: Found 1 attached monitors.
+[2023.01.16-15.27.06:636][  0]LogWindows: EnumDisplayDevices:
+[2023.01.16-15.27.06:636][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.16-15.27.06:636][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.16-15.27.06:636][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.16-15.27.06:636][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.16-15.27.06:637][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.16-15.27.06:637][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2023.01.16-15.27.06:637][  0]LogD3D12RHI:   Driver Version: 511.09 (internal:30.0.15.1109, unified:511.09)
+[2023.01.16-15.27.06:637][  0]LogD3D12RHI:      Driver Date: 12-29-2021
+[2023.01.16-15.27.06:637][  0]LogRHI: Texture pool is 4563 MB (70% of 6519 MB)
+[2023.01.16-15.27.06:637][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.16-15.27.06:637][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.16-15.27.06:644][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.16-15.27.07:853][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 2070 SUPER
+Installed: 511.09
+Recommended: 516.25
+[2023.01.16-15.27.07:856][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyReport_0.log" -log="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyLog_0.log" -project="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject"  -platform=all'
+[2023.01.16-15.27.07:857][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyReport_0.log" -log="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyLog_0.log" -project="C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject"  -platform=all" ]
+[2023.01.16-15.27.07:872][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.16-15.27.07:876][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.16-15.27.07:876][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.16-15.27.07:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.16-15.27.07:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.16-15.27.07:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.16-15.27.07:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.16-15.27.07:882][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.16-15.27.07:887][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.16-15.27.07:889][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.16-15.27.07:889][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.16-15.27.07:889][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.16-15.27.07:889][  0]LogTargetPlatformManager:   PCM
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager:   BINKA
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager:   OGG
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.16-15.27.07:890][  0]LogTargetPlatformManager:   OPUS
+[2023.01.16-15.27.07:919][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.16-15.27.07:919][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.16-15.27.07:919][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-15.27.07:920][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.16-15.27.07:920][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-15.27.07:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.16-15.27.07:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.16-15.27.07:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-15.27.07:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.16-15.27.07:939][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.16-15.27.07:939][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-15.27.07:939][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.16-15.27.07:952][  0]LogDerivedDataCache: Speed tests for C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.16-15.27.07:952][  0]LogDerivedDataCache: Display: Performance to C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2211.96MBs, RandomWriteSpeed=79.02MBs. Assigned SpeedClass 'Local'
+[2023.01.16-15.27.07:953][  0]LogDerivedDataCache: Using Local data cache path C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.16-15.27.07:953][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.16-15.27.07:953][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.16-15.27.07:960][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.16-15.27.07:960][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.16-15.27.07:960][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/Shaders/WorkingDirectory/17092/).
+[2023.01.16-15.27.07:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/c_charvoz/AppData/Local/Temp/UnrealShaderWorkingDir/B1FA68F547C4B9A3278690912AB1709D/'.
+[2023.01.16-15.27.07:960][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.16-15.27.07:960][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.16-15.27.09:110][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.16-15.27.09:110][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.16-15.27.09:111][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.16-15.27.09:141][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.16-15.27.09:141][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1190.9.3.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.16-15.27.09:141][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.16-15.27.09:141][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.16-15.27.09:141][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.16-15.27.09:178][  0]LogInit: Using OS detected language (en-US).
+[2023.01.16-15.27.09:178][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.01.16-15.27.09:178][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.16-15.27.09:178][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2023.01.16-15.27.09:179][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.01.16-15.27.09:179][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.01.16-15.27.09:188][  0]LogAssetRegistry: FAssetRegistry took 0.0087 seconds to start up
+[2023.01.16-15.27.09:334][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.001181 seconds
+[2023.01.16-15.27.09:335][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.16-15.27.09:335][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2023.01.16-15.27.09:534][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-15.27.09:534][  0]LogDeviceProfileManager: Active device profile: [000008A7A3946900][000008A799760000 50] WindowsEditor
+[2023.01.16-15.27.09:534][  0]LogDeviceProfileManager: Profiles: [000008A7A39463C0][000008A799762800 50] Windows, [000008A7A3946900][000008A799760000 50] WindowsEditor, [000008A7A3944B40][000008A79976A000 50] WindowsServer, [000008A7A3943800][000008A78C717800 50] WindowsClient, [000008A7A3945780][000008A79FFBC800 50] IOS, [000008A7A3945E80][000008A799727800 50] iPadAir2, [000008A7A39471C0][000008A78CADA000 50] IPadPro, [000008A7A3947540][000008A799765000 50] iPadAir3, [000008A7A3944440][000008A7A3C20000 50] iPadAir4, [000008A7A3942140][000008A7A3C25000 50] iPadMini4, [000008A7A39440C0][000008A7A3C27800 50] iPadMini5, [000008A7A3947000][000008A7A3C2A000 50] iPadMini6, [000008A7A394A800][000008A7A3CB0000 50] iPhone6S, [000008A7A394AB80][000008A7A3CB2800 50] iPhone7, [000008A7A394A480][000008A7A3CB5000 50] iPodTouch7, [000008A7A3949D80][000008A7A3CBA000 50] iPhone6SPlus, [000008A7A3946040][000008A7A3CBC800 50] iPhone7Plus, [000008A7A3947A80][000008A799725000 50] iPhoneSE, [000008A7A3946C80][000008A7A3C2C800 50] iPhone8, [000008A7A3945080][000008A7A3CB7800 50] iPhone8Plus, [000008A7A3942F40][000008A7A3C30000 50] iPhoneX, [000008A7A3949A00][000008A7A3C35000 50] iPhoneXS, [000008A7A394A640][000008A7A3C37800 50] iPhoneXSMax, [000008A7A3949840][000008A7A3C3A000 50] iPhoneXR, [000008A7A3945400][000008A7A3C3C800 50] iPhone11, [000008A7A3949680][000008A7A3C22800 50] iPhone11Pro, [000008A7A39432C0][000008A7A3C40000 50] iPhone11ProMax, [000008A7A3949BC0][000008A7A3C45000 50] iPhoneSE2, [000008A7A3942300][000008A7A3C47800 50] iPhone12Mini, [000008A7A3948C00][000008A7A3C4A000 50] iPhone12, [000008A7A3942A00][000008A7A3C4C800 50] iPhone12Pro, [000008A7A3943B80][000008A7A3C32800 50] iPhone12ProMax, [000008A7A394A100][000008A7A3C80000 50] iPhone13Mini, [000008A7A39494C0][000008A7A3C85000 50] iPhone13, [000008A7A3944600][000008A7A3C87800 50] iPhone13Pro, [000008A7A3948A40][000008A7A3C8A000 50] iPhone13ProMax, [000008A7A39447C0][000008A7A3C8C800 50] iPadPro105, [000008A7A39439C0][000008A7A3C42800 50] iPadPro129, [000008A7A3948880][000008A7A3C90000 50] iPadPro97, [000008A7A3944EC0][000008A7A3C95000 50] iPadPro2_129, [000008A7A3944980][000008A7A3C97800 50] iPad5, [000008A7A3945940][000008A7A3C9A000 50] iPad6, [000008A7A3947FC0][000008A7A3C9C800 50] iPad7, [000008A7A3946AC0][000008A7A3C82800 50] iPad8, [000008A7A3948180][000008A7A3CA0000 50] iPad9, [000008A7A3947380][000008A7A3CA5000 50] iPadPro11, [000008A7A3946740][000008A7A3CA7800 50] iPadPro2_11, [000008A7A3942840][000008A7A3CAA000 50] iPadPro3_11, [000008A7A3946E40][000008A7A3CAC800 50] iPadPro3_129, [000008A7A3945CC0][000008A7A3C92800 50] iPadPro4_129, [000008A7A3944280][000008A7A3CC0000 50] iPadPro5_129, [000008A7A3949F40][000008A7A3CC5000 50] AppleTV, [000008A7A394A9C0][000008A7A3CC7800 50] AppleTV4K, [000008A7A3949140][000008A7A3CCA000 50] TVOS, [000008A7A394C5C0][000008A7A3CA2800 50] Mac, [000008A7A394C940][000008A7A3CCC800 50] MacEditor, [000008A7A3943D40][000008A7A3CD0000 50] MacClient, [000008A7A39455C0][000008A7A3CD5000 50] MacServer, [000008A7A394C780][000008A7A3CDA000 50] Linux, [000008A7A394CE80][000008A7A3CD7800 50] LinuxEditor, [000008A7A394B0C0][000008A7A3CDC800 50] LinuxArm64Editor, [000008A7A3943480][000008A7A3CC2800 50] LinuxArm64, [000008A7A3949300][000008A7A3CE0000 50] LinuxClient, [000008A7A394D040][000008A7A3CE5000 50] LinuxArm64Client, [000008A7A3944D00][000008A7A3CE7800 50] LinuxServer, [000008A7A3942D80][000008A7A3CEA000 50] LinuxArm64Server, [000008A7A394CB00][000008A7A3CEC800 50] Android, [000008A7A394BD00][000008A7A3CD2800 50] Android_Preview_OpenGL, [000008A7A3943100][000008A7A3CF0000 50] Android_Preview_Vulkan, [000008A7A3948340][000008A7A3CF5000 50] Android_Low, [000008A7A3942BC0][000008A7A3CF7800 50] Android_Mid, [000008A7A394D740][000008A7A3CFA000 50] Android_High, [000008A7A394CCC0][000008A7A3CFC800 50] Android_Default, [000008A7A394D580][000008A7A3CE2800 50] Android_Adreno4xx, [000008A7A394C240][000008A7A3D00000 50] Android_Adreno5xx_Low, [000008A7A394B440][000008A7A3D05000 50] Android_Adreno5xx, [000008A7A3943640][000008A7A3D07800 50] Android_Adreno6xx, [000008A7A3948DC0][000008A7A3D0A000 50] Android_Adreno6xx_Vulkan, [000008A7A394D200][000008A7A3D0C800 50] Android_Adreno7xx, [000008A7A39478C0][000008A7A3CF2800 50] Android_Adreno7xx_Vulkan, [000008A7A394C400][000008A7A3D10000 50] Android_Mali_T6xx, [000008A7A394B980][000008A7A3D15000 50] Android_Mali_T7xx, [000008A7A394B280][000008A7A3D17800 50] Android_Mali_T8xx, [000008A7A3946200][000008A7A3D1A000 50] Android_Mali_G71, [000008A7A3943F00][000008A7A3D1C800 50] Android_Mali_G72, [000008A7A39486C0][000008A7A3D02800 50] Android_Mali_G72_Vulkan, [000008A7A394AF00][000008A7A3D20000 50] Android_Mali_G76, [000008A7A394B600][000008A7A3D25000 50] Android_Mali_G76_Vulkan, [000008A7A3947C40][000008A7A3D27800 50] Android_Mali_G77, [000008A7A394BEC0][000008A7A3D2A000 50] Android_Mali_G77_Vulkan, [000008A7A3945240][000008A7A3D2C800 50] Android_Mali_G78, [000008A7A3948F80][000008A7A3D12800 50] Android_Mali_G78_Vulkan, [000008A7A3947700][000008A7A3D30000 50] Android_Mali_G710, [000008A7A394C080][000008A7A3D35000 50] Android_Mali_G710_Vulkan, [000008A7A394D3C0][000008A7A3D37800 50] Android_Xclipse_920, [000008A7A394EC40][000008A7A3D3A000 50] Android_Xclipse_920_Vulkan, [000008A7A394EE00][000008A7A3D3C800 50] Android_Vulkan_SM5, [000008A7A394F180][000008A7A3D22800 50] Android_PowerVR_G6xxx, [000008A7A394AD40][000008A7A3D40000 50] Android_PowerVR_GT7xxx, [000008A7A394F500][000008A7A3D45000 50] Android_PowerVR_GE8xxx, [000008A7A394B7C0][000008A7A3D47800 50] Android_PowerVR_GM9xxx, [000008A7A394F880][000008A7A3D4A000 50] Android_PowerVR_GM9xxx_Vulkan, [000008A7A3942680][000008A7A3D4C800 50] Android_TegraK1, [000008A7A394FC00][000008A7A3D32800 50] Android_Unknown_Vulkan, [000008A7A394F340][000008A7A3D50000 50] Oculus_Quest, [000008A7A34EFDC0][000008A7A3D55000 50] Oculus_Quest2, [000008A7A394E8C0][000008A7A3D57800 50] HoloLens, 
+[2023.01.16-15.27.09:534][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.16-15.27.09:547][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.16-15.27.09:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.16-15.27.09:694][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.16-15.27.09:694][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.16-15.27.09:694][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.16-15.27.09:694][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.16-15.27.09:706][  0]LogNetVersion: Dungeon_And_Gun 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1335253079)
+[2023.01.16-15.27.09:881][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:881][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:882][  0]LogUObjectGlobals: Warning: Failed to find object 'Font /Engine/EngineFonts/Roboto.Roboto'
+[2023.01.16-15.27.09:882][  0]Error: CDO Constructor (ComboBoxString): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:882][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:882][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:882][  0]Error: CDO Constructor (EditableText): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:882][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:882][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:882][  0]Error: CDO Constructor (EditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:882][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:882][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:882][  0]Error: CDO Constructor (InputKeySelector): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:882][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:883][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:883][  0]Error: CDO Constructor (MultiLineEditableText): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:883][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:883][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:883][  0]Error: CDO Constructor (MultiLineEditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:883][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:883][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:883][  0]Error: CDO Constructor (SpinBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:883][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:883][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:883][  0]Error: CDO Constructor (TextBlock): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:883][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.09:891][  0]LogLinker: Warning: Error opening file '/Engine/EngineFonts/Roboto'.
+[2023.01.16-15.27.09:891][  0]Error: CDO Constructor (EditorEngine): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.09:892][  0]SourceControl: Source control is disabled
+[2023.01.16-15.27.09:915][  0]SourceControl: Source control is disabled
+[2023.01.16-15.27.09:915][  0]SourceControl: Source control is disabled
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (ComboBoxString): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (EditableText): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (EditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (InputKeySelector): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (MultiLineEditableText): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (MultiLineEditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (SpinBox): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (TextBlock): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.10:004][  0]LogUObjectBase: Warning: Error: CDO Constructor (EditorEngine): Failed to find /Engine/EngineFonts/Roboto
+
+[2023.01.16-15.27.11:331][  0]Message dialog closed, result: Ok, title: Message, text: Default Property warnings and errors:
+Error: CDO Constructor (ComboBoxString): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (EditableText): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (EditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (InputKeySelector): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (MultiLineEditableText): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (MultiLineEditableTextBox): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (SpinBox): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (TextBlock): Failed to find /Engine/EngineFonts/Roboto
+
+Error: CDO Constructor (EditorEngine): Failed to find /Engine/EngineFonts/Roboto
+
+
+[2023.01.16-15.27.11:384][  0]LogMoviePlayer: Initializing movie player
+[2023.01.16-15.27.11:500][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 88FE8B224E191FB834FB36A79F60A6EC | Instance: AC8A2ABC4B567C76BD364797B538E99D (MOI-LAB04-PC33-17092).
+[2023.01.16-15.27.11:513][  0]LogCollectionManager: Loaded 0 collections in 0.001197 seconds
+[2023.01.16-15.27.11:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Collections/' took 0.00s
+[2023.01.16-15.27.11:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/Developers/ccharvoz/Collections/' took 0.00s
+[2023.01.16-15.27.11:515][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c_charvoz/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/Collections/' took 0.00s
+[2023.01.16-15.27.11:515][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.16-15.27.11:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.16-15.27.11:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.16-15.27.11:542][  0]LogPython: Using Python 3.9.7
+[2023.01.16-15.27.12:116][  0]SourceControl: Source control is disabled
+[2023.01.16-15.27.12:120][  0]LogUProjectInfo: Found projects:
+[2023.01.16-15.27.12:173][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.16-15.27.12:176][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.16-15.27.12:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-15.27.12:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-15.27.12:294][  0]LogUObjectArray: 27170 objects as part of root set at end of initial load.
+[2023.01.16-15.27.12:294][  0]LogUObjectAllocator: 7745552 out of 0 bytes used by permanent object pool.
+[2023.01.16-15.27.12:294][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.16-15.27.12:354][  0]LogEngine: Initializing Engine...
+[2023.01.16-15.27.12:356][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.16-15.27.12:496][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.16-15.27.12:496][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.16-15.27.12:501][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.16-15.27.12:501][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.16-15.27.12:501][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.16-15.27.12:502][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-15.27.12:502][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-15.27.12:506][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.16-15.27.12:522][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.01.16-15.27.12:522][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-15.27.12:524][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-15.27.12:524][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-15.27.12:524][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.16-15.27.12:524][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-15.27.12:525][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-15.27.12:525][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.16-15.27.12:525][  0]LogInit: FAudioDevice initialized.
+[2023.01.16-15.27.12:525][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.16-15.27.12:525][  0]LogInit: Texture streaming: Enabled
+[2023.01.16-15.27.12:589][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.16-15.27.12:592][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.16-15.27.12:592][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.16-15.27.12:597][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Dungeon_And_Gun_0x5f48a39a", connecting to console process (PID: 10648)
+[2023.01.16-15.27.12:597][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.16-15.27.12:597][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.16-15.27.12:597][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.16-15.27.12:598][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-15.27.12:599][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.16-15.27.12:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-15.27.12:600][  0]LogInit: Display: Game Engine Initialized.
+[2023.01.16-15.27.12:600][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.01.16-15.27.12:616][  0]LogInit: Display: Starting Game.
+[2023.01.16-15.27.12:616][  0]LogNet: Browse: /Game/TopDown/UI/MainMenue/MainMenuMap?Name=Player
+[2023.01.16-15.27.12:616][  0]LogLoad: LoadMap: /Game/TopDown/UI/MainMenue/MainMenuMap?Name=Player
+[2023.01.16-15.27.12:616][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.01.16-15.27.12:617][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-15.27.12:617][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-15.27.12:623][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-15.27.12:625][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:706][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:713][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:713][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:714][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:714][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:714][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:719][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:719][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:719][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:719][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:719][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:723][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:724][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:725][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:726][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:727][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:728][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:728][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:736][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:737][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:738][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:738][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:738][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:738][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:738][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:739][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.12:740][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:251][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2023.01.16-15.27.13:251][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.16-15.27.13:253][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-15.27.13:257][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2023.01.16-15.27.13:257][  0]LogLoad: Game class is 'GameModeBase'
+[2023.01.16-15.27.13:264][  0]LogWorld: Bringing World /Game/TopDown/UI/MainMenue/MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2023.01.16-16.27.13
+[2023.01.16-15.27.13:273][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.16-15.27.13:273][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.16-15.27.13:273][  0]LogWorld: Bringing up level for play took: 0.012143
+[2023.01.16-15.27.13:273][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:274][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogSlate: Warning: FSlateFontInfo was constructed with a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2023.01.16-15.27.13:275][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.16-15.27.13:275][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.01.16-15.27.13:275][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.01.16-15.27.13:276][  0]LogLoad: Took 0.659724 seconds to LoadMap(/Game/TopDown/UI/MainMenue/MainMenuMap)
+[2023.01.16-15.27.13:276][  0]LogViewport: Scene viewport resized to 1344x776, mode Windowed.
+[2023.01.16-15.27.13:298][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.16-15.27.13:312][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.16-15.27.13:312][  0]LogLoad: (Engine Initialization) Total time: 8.20 seconds
+[2023.01.16-15.27.13:312][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.16-15.27.13:469][  0]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.01.16-15.27.14:085][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.16-15.27.14:087][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-15.27.14:157][  0]LogAutomationController: Ignoring very large delta of 16778472.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.16-15.27.14:176][  1]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.16-15.27.14:182][  2]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2023.01.16-15.27.14:185][  2]LogSlate: Took 0.002000 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.01.16-15.29.07:975][124]LogDerivedDataCache: C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.16-15.32.57:624][335]LogSlate: Window 'Dungeon_And_Gun (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.01.16-15.32.57:625][335]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2023.01.16-15.32.57:631][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-15.32.57:631][335]LogEngine: All Windows Closed
+[2023.01.16-15.32.57:631][335]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.01.16-15.32.57:631][335]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.01.16-15.32.57:631][335]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.01.16-15.32.57:631][336]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.16-15.32.57:631][336]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.01.16-15.32.57:631][336]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.01.16-15.32.57:631][336]LogInit: Display: PreExit Game.
+[2023.01.16-15.32.57:632][336]LogWorld: BeginTearingDown for /Game/TopDown/UI/MainMenue/MainMenuMap
+[2023.01.16-15.32.57:632][336]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-15.32.57:633][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-15.32.58:541][336]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.16-15.32.58:541][336]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.16-15.32.58:541][336]LogAudio: Display: Audio Device unregistered from world 'MainMenuMap'.
+[2023.01.16-15.32.58:568][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.16-15.32.58:570][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.16-15.32.58:573][336]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.16-15.32.58:575][336]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.16-15.32.58:575][336]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.16-15.32.58:575][336]LogExit: Preparing to exit.
+[2023.01.16-15.32.58:581][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-15.32.58:583][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.01.16-15.32.58:616][336]LogMoviePlayer: Shutting down movie player
+[2023.01.16-15.32.58:723][336]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.16-15.32.58:724][336]LogExit: Game engine shut down
+[2023.01.16-15.32.58:764][336]LogExit: Object subsystem successfully closed.
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: ================================================
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.16-15.32.58:770][336]LogShaderCompilers: Display: ================================================
+[2023.01.16-15.32.58:789][336]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (526)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module SequenceRecorder (524)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module AutomationController (522)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module Voice (518)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module AIModule (516)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module GameplayDebugger (515)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module AITestSuite (513)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module NavigationSystem (511)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (506)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module WebMMedia (504)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module PlanarCut (496)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (490)
+[2023.01.16-15.32.58:801][336]LogModuleManager: Shutting down and abandoning module LiveCoding (488)
+[2023.01.16-15.32.58:805][336]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2023.01.16-15.32.58:805][336]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2023.01.16-15.32.58:805][336]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module AudioMixer (473)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module AudioMixerCore (472)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (468)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module TypedElementFramework (466)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2023.01.16-15.32.58:806][336]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (458)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (456)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangePipelines (454)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeExport (452)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeMessages (450)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeImport (448)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module InterchangeNodes (446)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module Synthesis (442)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module ResonanceAudio (440)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module ModelingOperators (436)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module ModelingComponents (434)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module MeshModelingTools (432)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module MediaCompositing (430)
+[2023.01.16-15.32.58:913][336]LogModuleManager: Shutting down and abandoning module ImgMedia (428)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GooglePAD (426)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module DynamicMesh (422)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (420)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (418)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (417)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCache (414)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (413)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (405)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AssetTags (402)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module TemplateSequence (394)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module SequencerScripting (392)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AndroidPermission (390)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (388)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (386)
+[2023.01.16-15.32.58:914][336]LogOpenImageDenoise: OIDN shutting down
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (384)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (382)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (381)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (378)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (376)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ChaosNiagara (374)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (368)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (366)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module UObjectPlugin (362)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (360)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (358)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ControlRigSpline (356)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (354)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (352)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module SoundFields (350)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module SignificanceManager (348)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (346)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (344)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (342)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (340)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (338)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (337)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (334)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (330)
+[2023.01.16-15.32.58:914][336]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2023.01.16-15.32.59:016][336]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module PBIK (324)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module FullBodyIK (322)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (320)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module FacialAnimation (318)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (316)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (314)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module Niagara (312)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module SignalProcessing (311)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module NiagaraEditor (309)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module ContentBrowser (308)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module CollectionManager (305)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (304)
+[2023.01.16-15.32.59:117][336]LogModuleManager: Shutting down and abandoning module ContentBrowserData (301)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module NiagaraCore (296)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module AnimationSharing (294)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (292)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module IKRig (290)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (288)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module ControlRig (286)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module LevelSequence (285)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (282)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module TreeMap (281)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module GameplayCameras (278)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (274)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2023.01.16-15.32.59:118][336]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module Core (206)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2023.01.16-15.32.59:120][336]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.01.16-15.32.59:122][336]LogModuleManager: Shutting down and abandoning module WmfMedia (102)
+[2023.01.16-15.32.59:123][336]LogModuleManager: Shutting down and abandoning module Media (101)
+[2023.01.16-15.32.59:124][336]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (98)
+[2023.01.16-15.32.59:124][336]LogModuleManager: Shutting down and abandoning module HairStrandsCore (96)
+[2023.01.16-15.32.59:124][336]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.01.16-15.32.59:124][336]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2023.01.16-15.32.59:124][336]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2023.01.16-15.32.59:125][336]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.01.16-15.32.59:125][336]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.01.16-15.32.59:138][336]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.01.16-15.32.59:138][336]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2023.01.16-15.32.59:150][336]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module ChunkDownloader (74)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module ChaosCloth (70)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PixWinPlugin (68)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.01.16-15.32.59:151][336]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.01.16-15.32.59:152][336]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.01.16-15.32.59:170][336]LogD3D12RHI: Display: D3D12 ReleaseResources: 65 items to release
+[2023.01.16-15.32.59:170][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1344 x 776 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.01.16-15.32.59:170][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1344 x 776 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.01.16-15.32.59:170][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1344 x 776 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.01.16-15.32.59:171][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:172][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 2000 x 2000 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 2000 x 1500 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 1500 x 1500 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "WholeSceneShadowmap", 8192 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowDepthAtlas", 1 x 1 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:173][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 336 x 194 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 336 x 194 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 672 x 388 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 672 x 388 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1344 x 776 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1344 x 776 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1344 x 776 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "CachedShadowDepthMap", 1024 x 1024 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:174][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "CachedShadowDepthMap", 2048 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "CachedShadowDepthMap", 2048 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "CachedShadowDepthMap", 2048 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.01.16-15.32.59:175][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1344 x 776 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1344 x 776 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1344 x 776 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1344 x 776 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 336 x 189 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 336 x 189 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.01.16-15.32.59:176][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 672 x 378 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 672 x 378 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 672 x 378 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 672 x 378 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1344 x 776 x 1, Mips: 2, Format: 0x1A, Flags: 0x4
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.01.16-15.32.59:177][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.FilterDispatchParameters", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:178][336]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.01.16-15.32.59:235][336]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.01.16-15.32.59:236][336]LogExit: Exiting.
+[2023.01.16-15.32.59:242][336]Log file closed, 01/16/23 16:32:59
